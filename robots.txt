@@ -1,0 +1,5 @@
+# Health Autonomy: all crawlers, including AI assistants, are welcome.
+User-agent: *
+Allow: /
+
+Sitemap: https://irehab.github.io/health-autonomy-website/sitemap.xml
